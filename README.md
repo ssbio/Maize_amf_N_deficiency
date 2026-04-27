@@ -11,8 +11,6 @@ Arbuscular mycorrhizal fungi (AMF) hold significant potential to reduce nitrogen
 
 Maize transcriptomic data were integrated into the genome-scale metabolic model **iZMA6517** (6,515 genes, 5,228 reactions, 3,007 metabolites) to characterize condition-specific metabolic states, predict metabolite accumulation, and uncover key metabolic shifts — particularly in the **pyrimidine metabolic pathway** — under nitrogen-limited AM symbiosis conditions.
 
-Key finding: under low nitrogen (LN), inoculation with *R. irregularis* allowed maize to **maintain grain yield with five times less nitrogen input**.
-
 ## Experimental Conditions
 
 | Label | Description |
