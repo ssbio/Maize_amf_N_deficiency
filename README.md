@@ -1,9 +1,6 @@
 # A Genome-Scale Model Tracks How Arbuscular Mycorrhizal Symbiosis Mitigates Maize N Deficiency Stress
 
-This repository contains genome-scale metabolic models (GSMs) and associated analysis files supporting the study:
-
-> **Decouard B., Chowdhury N.B., Saou A., Ampimah N., et al.**
-> *"A genome-scale model tracks how arbuscular mycorrhizal symbiosis mitigates maize N deficiency stress."*
+This repository contains genome-scale metabolic models (GSMs) and associated analysis files supporting the study.
 
 ## Overview
 
