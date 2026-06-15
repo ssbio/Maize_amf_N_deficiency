@@ -31,7 +31,7 @@ $include "metabolites.txt"
 
     SM(i)       "selected metabolites"
 *$include "single_metabolite_test.txt"*
-$include "NEW_selected_metabolites.txt"
+$include "selected_metabolites.txt"
 
     j           "reactions"
 $include "reactions.txt"
