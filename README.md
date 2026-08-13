@@ -20,7 +20,7 @@ Maize transcriptomic data were integrated into the genome-scale metabolic model 
 ## Repository Structure
 
 ```
-├── Codes/     # GAMS scripts for FBA, Flux Sum Analysis, and Metabolic Bottleneck Analysis
+
 ├── GAMS/      # Condition-specific stoichiometric matrices (sij), reaction/metabolite lists,
 │              # and flux bounds derived from transcriptomic integration into iZMA6517
 │              ├── B73/
@@ -41,6 +41,8 @@ Maize transcriptomic data were integrated into the genome-scale metabolic model 
 - **Flux Balance Analysis (FBA)** — Predicts optimal metabolic flux distributions under each condition
 - **Flux Sum Analysis** — Quantifies the total metabolic activity associated with each metabolite
 - **Metabolic Bottleneck Analysis** — Identifies rate-limiting reactions constraining metabolic performance
+- **Shadow Price Analysis** —Quantifies the marginal value of metabolites constraining growth
+- **Flux Variability Analysis (FVA)** —Determines the minimum and maximum allowable flux for each reaction 
 
 ## Dependencies
 
