@@ -50,10 +50,10 @@ PARAMETERS
 $include "sij.txt"
 
     v_max(j)    "upper bounds"
-$include "LO3_HN_CONTROL_upper_bound_80.txt"
+$include "LO3_HN_CONTROL_upper_bound.txt"
 
     v_min(j)    "lower bounds"
-$include "LO3_HN_CONTROL_lower_bound_80.txt"
+$include "LO3_HN_CONTROL_lower_bound.txt"
 ;
 
 *************************************************************
